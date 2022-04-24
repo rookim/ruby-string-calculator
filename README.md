@@ -23,3 +23,4 @@ If you would like, you are more than welcome to fork this repository and test it
 For your convenience, I've embedded a video demo of my string calculator in action! Take a look :)
 
 https://user-images.githubusercontent.com/97060537/164994601-6204b47c-9280-4974-b868-85b80ef6da7b.mp4
+Source: https://vimeo.com/702616598/f449552d8d
