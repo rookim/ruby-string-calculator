@@ -119,8 +119,6 @@ while active
 
   puts "Please enter a mathematical expression. Be sure to put spaces between numbers and symbols. Mixed fractions can be entered as follows: 1_1/2"
 
-  puts
-
   user_input = gets.chomp()
 
   equation = Calculator.new(user_input)
@@ -133,8 +131,6 @@ while active
 
   puts "Would you like to enter another mathematical expression? (y/n)"
 
-  puts
-
   continue = "y"
   
   while continue
@@ -143,7 +139,6 @@ while active
     if continue.downcase == "y"
       continue = nil
       active = true
-      puts
     elsif continue.downcase == "n"
       continue = nil
       active = false
